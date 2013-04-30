@@ -1,3 +1,6 @@
 [submodule "ProtonSherlock"]
 	path = ProtonSherlock
 	url = git@github.com:KeithYokoma/ProtonSherlock.git
+[submodule "Android-Device-Compatibility"]
+	path = Android-Device-Compatibility
+	url = git@github.com:KeithYokoma/Android-Device-Compatibility.git
