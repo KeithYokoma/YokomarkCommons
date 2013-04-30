@@ -1,7 +1,0 @@
-# cache for current jar dependecy. DO NOT EDIT.
-# format is <lastModified> <length> <SHA-1> <path>
-# Encoding is UTF-8
-1367298004000 393154 307c1cc532eabbf1d135b43e5c983c9da700449d /Users/yokomakukeishin/Documents/Android/repository/YokomarkCommons/YokomarkCommons/libs/android-support-v4.jar
-1367297376000 393154 307c1cc532eabbf1d135b43e5c983c9da700449d /Users/yokomakukeishin/Documents/Android/repository/YokomarkCommons/ProtonSherlock/proton/core/libs/android-support-v4.jar
-1367297287000 393154 307c1cc532eabbf1d135b43e5c983c9da700449d /Users/yokomakukeishin/Documents/Android/repository/YokomarkCommons/ProtonSherlock/ProtonSherlock/libs/android-support-v4.jar
-1367297373000 393154 307c1cc532eabbf1d135b43e5c983c9da700449d /Users/yokomakukeishin/Documents/Android/repository/YokomarkCommons/ProtonSherlock/ActionBarSherlock/actionbarsherlock/libs/android-support-v4.jar
