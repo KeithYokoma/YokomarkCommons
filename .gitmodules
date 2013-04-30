@@ -1,0 +1,3 @@
+[submodule "ProtonSherlock"]
+	path = ProtonSherlock
+	url = git@github.com:KeithYokoma/ProtonSherlock.git
